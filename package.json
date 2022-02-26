@@ -1,0 +1,19 @@
+{
+  "name": "pjcypresstest",
+  "version": "1.0.0",
+  "description": "E2E framework cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "2e2",
+    "cypress"
+  ],
+  "author": "Andres",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.0"
+  }
+}
